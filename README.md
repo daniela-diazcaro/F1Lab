@@ -2,6 +2,7 @@
 This is an internship emulator by Dean Lee: F1L on Linkedin
 # **Week 1**
 **The KSQ:** Using available scRNA-seq data from cancer cell lines, can the following cancer therapies, Trastuzumab and Bevacizumab, help/target additional cancers?
+
 **What is scRNA-seq?** 
 scRNA stands for single-cell RNA sequencing. This methodology allows for the collection of gene expression of individual cells by measuring the abundance of mRNA molecules. The data gathered can help you understand gene expression since it can provide information on which genes are expressed and the expression level.  
 
